@@ -6,9 +6,6 @@ A multi-page Power BI report analyzing hospital billing, patient appointments, a
 ## 🎯 Objective
 To help hospital management track key operational metrics billing trends, patient distribution, doctor performance, and cancellation patterns — through a set of interactive report pages for faster, data-driven decision-making.
 
-## 📊 Dashboard Preview
-![Dashboard Screenshot](HealthCare_Dashboard.png)
-
 ## 📄 Report Pages
 This `.pbix` file includes multiple report pages, each focused on a different area of hospital operations:
 * **Executive Overview** — high-level KPIs and revenue insights
