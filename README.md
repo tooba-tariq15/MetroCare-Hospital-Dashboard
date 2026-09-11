@@ -7,7 +7,7 @@ A multi-page Power BI report analyzing hospital billing, patient appointments, a
 To help hospital management track key operational metrics billing trends, patient distribution, doctor performance, and cancellation patterns — through a set of interactive report pages for faster, data-driven decision-making.
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](Healthcare_Dashboard.png)
+![Dashboard Screenshot](HealthCare_Dashboard.png)
 
 ## 📄 Report Pages
 This `.pbix` file includes multiple report pages, each focused on a different area of hospital operations:
@@ -46,7 +46,7 @@ This `.pbix` file includes multiple report pages, each focused on a different ar
 
 ## 📁 Files in this Repository
 * `MetroCare Hospital.pbix` — Power BI file with all report pages
-* `Healthcare_Dashboard.png` — Dashboard preview image
+* `HealthCare_Dashboard.png` — Dashboard preview image
 * `README.md` — Project documentation
 
 ## 🚀 How to View
