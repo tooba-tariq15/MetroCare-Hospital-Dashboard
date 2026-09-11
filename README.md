@@ -1,7 +1,7 @@
 # 🏥 Healthcare Analytics Dashboard — Power BI
 
 ## 📌 Overview
-A multi-page Power BI report analyzing hospital billing, patient appointments, and doctor performance transforming raw hospital data into clear, actionable business insights. This was my first end-to-end Power BI project, built during my time as a Data Analyst Trainee at **Excellence Delivered (ExD), NASTP**.
+Power BI executive dashboard for MetroCare Hospital tracking patient, appointment, and revenue insights.
 
 ## 🎯 Objective
 To help hospital management track key operational metrics billing trends, patient distribution, doctor performance, and cancellation patterns — through a set of interactive report pages for faster, data-driven decision-making.
