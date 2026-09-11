@@ -1,7 +1,7 @@
 # 🏥 Healthcare Analytics Dashboard — Power BI
 
 ## 📌 Overview
-Power BI executive dashboard for MetroCare Hospital tracking patient, appointment, and revenue insights.
+A multi-page Power BI report analyzing hospital billing, patient appointments, and doctor performance transforming raw hospital data into clear, actionable business insights.
 
 ## 🎯 Objective
 To help hospital management track key operational metrics billing trends, patient distribution, doctor performance, and cancellation patterns — through a set of interactive report pages for faster, data-driven decision-making.
